@@ -1,0 +1,7 @@
+DATA QUALITY REPORT
+Generated: 2026-02-22 10:11:52.608308
+----------------------------------------
+Duplicates removed: 1
+Invalid/Missing ages fixed: 2
+Invalid emails flagged: 6
+Rows removed due to missing critical fields: 0
